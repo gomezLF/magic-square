@@ -1,0 +1,2 @@
+El objetivo del proyecto es para la creacion de un cruadado magico. Este cuadrado magico es y debera ser de orden impar, donde el usuario escogera el
+punto de inicio y la orientacion en la que este se llenara, a traves del algoritmo de Simón de la Loubere. 
